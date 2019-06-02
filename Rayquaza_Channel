@@ -4,9 +4,15 @@
   "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Rayquaza_Thumb.jpg",
   "menu": [
     {
-      "title": "Film",
-      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie.json",
-      "thumbnail": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/images/movies.png"
-    }
+      "title": "Film"},
+      {
+       "menu": [
+        {
+          "title": "2018",
+            "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie.json",
+            "thumbnail": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/images/movies.png"
+        }   
+      ]
+   }
   ]
 }
