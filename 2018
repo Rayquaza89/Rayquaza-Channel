@@ -1,0 +1,12 @@
+{
+  "channel_name": "2018",
+  "fanart": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Rayquaza_Wallpaper.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Rayquaza_Thumb.jpg",
+  "menu": [
+    {
+      "title": "Film",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie.json",
+      "thumbnail": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/images/movies.png"
+    }
+  ]
+}
