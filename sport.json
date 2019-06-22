@@ -1,7 +1,7 @@
 {
   "movies_list": [
      {
-      "title": "Coppa del Mondo Femminile: /n 17:30 -> Germania - Nigeria /n 21:00 -> Norvegia - Australia",
+      "title": "Coppa del Mondo Femminile: \n 17:30 -> Germania - Nigeria \n 21:00 -> Norvegia - Australia",
       "year": "2019",
       "links": [
         {
@@ -19,7 +19,7 @@
         ]
      },
      {
-      "title": "Calcio Europeo U21: 21:00 -> Belgio - Italia",
+      "title": "Calcio Europeo U21: \n 21:00 -> Belgio - Italia",
       "year": "2019",
       "links": [
         {
@@ -37,7 +37,7 @@
       ]
      },
      {
-      "title": "Basket Finale Gara 7: 20:25 -> Venezia - Sassari",
+      "title": "Basket Finale Gara 7: \n 20:25 -> Venezia - Sassari",
       "year": "2019",
       "links": [
         {
