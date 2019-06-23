@@ -31,7 +31,16 @@
       "title": "Rete 4",
       "links": [
         {
-          "url": "https://live2-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(r4)/manifest.mpd",
+          "url": "http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH03HA)/Stream(04)/index.m3u8",
+          "quality": "1080"
+        }
+      ]
+    },
+    {
+      "title": "Canale 5",
+      "links": [
+        {
+          "url": "http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(04)/index.m3u8",
           "quality": "1080"
         }
       ]
