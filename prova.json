@@ -1,11 +1,11 @@
 {
-  "years_list": [
+  "tvshows_list": [
     { "title":"2019",
-      "movies_list": [
+      "episodes_list": [
         {
  	         "number": "01",
 	         "title": "DragonBall Super Broly",
-		 "tmdb_id": "503314",
+		       "tmdb_id": "503314",
 	         "links": [
 			        {
 				         "url": "http://tele-vod.dnsup.net:24000/movie/palio/palio/65192.mkv"
