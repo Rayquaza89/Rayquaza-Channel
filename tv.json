@@ -4,7 +4,7 @@
       "title": "Rai Uno HD",
       "links": [
         {
-          "url": "http://bit.ly/rai1qdr",
+          "url": "hhttp://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803",
           "quality": "1080"
         }
       ]
@@ -13,7 +13,7 @@
       "title": "Rai Due HD",
       "links": [
         {
-          "url": "http://bit.ly/rai2qdr",
+          "url": "http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=180116",
           "quality": "1080"
         }
       ]
@@ -22,7 +22,7 @@
       "title": "Rai Tre HD",
       "links": [
         {
-          "url": "http://bit.ly/rai3qdr",
+          "url": "http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=180117",
           "quality": "1080"
         }
       ]
@@ -31,7 +31,7 @@
       "title": "Rete 4 HD",
       "links": [
         {
-          "url": "http://5.254.89.20:80/0SDqwE9EIB/sZMMK2spfG/34",
+          "url": "https://link.theplatform.eu/s/PR1GhC/qaCbbEgJhDQO",
           "quality": "1080"
         }
       ]
@@ -40,7 +40,7 @@
       "title": "Canale 5 HD",
       "links": [
         {
-          "url": "http://5.254.89.20:80/0SDqwE9EIB/sZMMK2spfG/93",
+          "url": "https://link.theplatform.eu/s/PR1GhC/u_92C5xUTDKy",
           "quality": "1080"
         }
       ]
@@ -49,7 +49,223 @@
       "title": "Italia 1 HD",
       "links": [
         {
-          "url": "http://5.254.89.20:80/0SDqwE9EIB/sZMMK2spfG/78",
+          "url": "https://link.theplatform.eu/s/PR1GhC/8hce79abOuXH",
+          "quality": "1080"
+        }
+      ]
+    },
+     {
+      "title": "La 7 HD",
+      "links": [
+        {
+          "url": "https://1.ip2stream.icu/live/la_7_hd/playlist.m3u8",
+          "quality": "1080"
+        }
+      ]
+    },
+     {
+      "title": "RSI La 1",
+      "links": [
+        {
+          "url": "https://1.ip2stream.icu/live/rsi_la_1_hd/playlist.m3u8",
+          "quality": "1080"
+        }
+      ]
+    },
+    {
+      "title": "RSI La 2",
+      "links": [
+        {
+          "url": "https://1.ip2stream.icu/live/rsi_la_2_hd/playlist.m3u8",
+          "quality": "1080"
+        }
+      ]
+    },
+     {
+      "title": "Rai 4",
+      "links": [
+        {
+          "url": "https://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8?sd=10&rebase=on",
+          "quality": "1080"
+        }
+      ]
+    },
+    {
+      "title": "Rai 5",
+      "links": [
+        {
+          "url": "https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on",
+          "quality": "1080"
+        }
+      ]
+    },
+    {
+      "title": "La 5",
+      "links": [
+        {
+          "url": "https://link.theplatform.eu/s/PR1GhC/J9Q6lLg_NniV",
+          "quality": "1080"
+        }
+      ]
+    },
+    {
+      "title": "Paramount Channel",
+      "links": [
+        {
+          "url": "http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8",
+          "quality": "1080"
+        }
+      ]
+    },
+    {
+      "title": "Rai Premium",
+      "links": [
+        {
+          "url": "https://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8?sd=10&rebase=on",
+          "quality": "1080"
+        }
+      ]
+    },
+     {
+      "title": "Rai Movie",
+      "links": [
+        {
+          "url": "https://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on",
+          "quality": "1080"
+        }
+      ]
+    },
+     {
+      "title": "Cielo",
+      "links": [
+        {
+          "url": "https://1.ip2stream.icu/live/cielo_hd/playlist.m3u8",
+          "quality": "1080"
+        }
+      ]
+    },
+     {
+      "title": "Mediaset Extra",
+      "links": [
+        {
+          "url": "https://link.theplatform.eu/s/PR1GhC/t6dTuZAYw5Ol",
+          "quality": "1080"
+        }
+      ]
+    },
+    {
+      "title": "Italia 2",
+      "links": [
+        {
+          "url": "https://link.theplatform.eu/s/PR1GhC/U8FdicQG01WP",
+          "quality": "1080"
+        }
+      ]
+    },
+    {
+      "title": "TV 8",
+      "links": [
+        {
+          "url": "http://185.236.229.14:8000/play/a0ep",
+          "quality": "1080"
+        }
+      ]
+    },
+     {
+      "title": "Real Time HD",
+      "links": [
+        {
+          "url": "https://1.ip2stream.icu/live/real_time_hd/playlist.m3u8",
+          "quality": "1080"
+        }
+      ]
+    },
+     {
+      "title": "Mediaset 20",
+      "links": [
+        {
+          "url": "https://link.theplatform.eu/s/PR1GhC/O0G9OM_BNMs_",
+          "quality": "1080"
+        }
+      ]
+    },
+     {
+      "title": "Iris",
+      "links": [
+        {
+          "url": "https://link.theplatform.eu/s/PR1GhC/24KLReIjTllQ",
+          "quality": "1080"
+        }
+      ]
+    },
+     {
+      "title": "Top Crime",
+      "links": [
+        {
+          "url": "https://link.theplatform.eu/s/PR1GhC/V8blMBQmw7VJ",
+          "quality": "1080"
+        }
+      ]
+    },
+    {
+      "title": "Giallo",
+      "links": [
+        {
+          "url": "https://1.ip2stream.icu/live/giallo_hd/playlist.m3u8",
+          "quality": "1080"
+        }
+      ]
+    },
+    {
+      "title": "Alice",
+      "links": [
+        {
+          "url": "https://1.ip2stream.icu/live/alice_hd/playlist.m3u8",
+          "quality": "1080"
+        }
+      ]
+    },
+    {
+      "title": "Marcopolo HD",
+      "links": [
+        {
+          "url": "https://1.ip2stream.icu/live/marcopolo_hd/playlist.m3u8",
+          "quality": "1080"
+        }
+      ]
+    },
+    {
+      "title": "Case design stili",
+      "links": [
+        {
+          "url": "http://185.236.229.14:8000/play/a0kv",
+          "quality": "1080"
+        }
+      ]
+    },
+    {
+      "title": "Focus",
+      "links": [
+        {
+          "url": "https://link.theplatform.eu/s/PR1GhC/CxA_Z690FF_B",
+          "quality": "1080"
+        }
+      ]
+    },
+    {
+      "title": "DMax",
+      "links": [
+        {
+          "url": "https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8",
+          "quality": "1080"
+        }
+      ]
+    },
+    {
+      "title": "Alpha",
+      "links": [
+        {
+          "url": "https://live.deatv.it/alpha/index.m3u8",
           "quality": "1080"
         }
       ]
