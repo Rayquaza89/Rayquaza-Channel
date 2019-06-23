@@ -28,28 +28,28 @@
       ]
     },
     {
-      "title": "Rete 4",
+      "title": "Rete 4 HD",
       "links": [
         {
-          "url": "http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH03HA)/Stream(04)/index.m3u8",
+          "url": "http://5.254.89.20:80/0SDqwE9EIB/sZMMK2spfG/34",
           "quality": "1080"
         }
       ]
     },
     {
-      "title": "Canale 5",
+      "title": "Canale 5 HD",
       "links": [
         {
-          "url": "http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(04)/index.m3u8",
+          "url": "http://5.254.89.20:80/0SDqwE9EIB/sZMMK2spfG/93",
           "quality": "1080"
         }
       ]
     },
     {
-      "title": "Videolina",
+      "title": "Italia 1 HD",
       "links": [
         {
-          "url": "http://178.33.229.111/live/Videolina/playlist.m3u8",
+          "url": "http://5.254.89.20:80/0SDqwE9EIB/sZMMK2spfG/78",
           "quality": "1080"
         }
       ]
