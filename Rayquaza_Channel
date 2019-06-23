@@ -5,12 +5,7 @@
   "menu": [
     {
       "title": "Film",
-      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie.json",
-      "thumbnail": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/images/movies.png"
-    },
-    {
-      "title": "Film per anno",
-      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/2019",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/anni.json",
       "thumbnail": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/images/movies.png"
     }
   ]
