@@ -3,23 +3,24 @@
     {
       "title": "DragonBall Super: Broly",
       "year": "2018",
-      "tmdb_id": "503314",
       "links": [
         {
           "url": "http://tele-vod.dnsup.net:24000/movie/palio/palio/65192.mkv",
           "quality": "720"
         },
-     {
-      "title": "Mirai",
-      "year": "2018",
-      "links": [
         {
-          "url": "https://verystream.com/stream/jg4eAxBGd1z/",
-          "quality": "1080"
-        },
-        {
-          "url": "https://oload.site/f/kcms4FF8fIA/",
-          "quality": "1080"
+          "title": "Mirai",
+          "year": "2018",
+          "links": [
+            {
+              "url": "https://verystream.com/stream/jg4eAxBGd1z/",
+              "quality": "1080"
+            },
+            {
+              "url": "https://oload.site/f/kcms4FF8fIA/",
+              "quality": "1080"
+            }
+          ]
         }
       ]
     }
