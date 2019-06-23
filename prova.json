@@ -3,10 +3,24 @@
     { "title":"2019",
       "films_list": [
         {
-          "title": "DragonBall Super Broly",
-          "url": "http://tele-vod.dnsup.net:24000/movie/palio/palio/65192.mkv",
-          "quality": "720"
-        }
+ 	         "number": "01",
+	         "title": "DragonBall Super Broly",
+	         "links": [
+			        {
+				         "url": "http://tele-vod.dnsup.net:24000/movie/palio/palio/65192.mkv"
+			        }
+		]
+	     },
+	     {
+ 	         "number": "02",
+	         "title": "Ciccio pasticcio",
+	         "links": [
+			        {
+				         "url": "http://tele-vod.dnsup.net:24000/movie/palio/palio/65192.mkv"
+			        }
+		]
+	     }
+	     
       ]
     }
   ]
