@@ -9,6 +9,27 @@
           "quality": "720"
         }
       ]
-    }
+    },
+    {
+      "title": "John Wick 3 – Parabellum",
+      "year": "2019",
+      "links": [
+        {
+          "url": "http://tele-vod.dnsup.net:24000/movie/palio/palio/65694.mkv",
+          "quality": "SD"
+        }
+      ]
+    },
+    {
+      "title": "Pokémon Detective Pikachu",
+      "year": "2019",
+      "links": [
+        {
+          "url": "http://tele-vod.dnsup.net:24000/movie/palio/palio/66112.mkv",
+          "quality": "720"
+        }
+      ]
+    },
+    
   ]
 }
