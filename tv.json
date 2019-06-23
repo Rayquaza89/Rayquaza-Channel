@@ -1,0 +1,40 @@
+{
+  "movies_list": [
+    {
+      "title": "Rai Uno HD",
+      "links": [
+        {
+          "url": "http://bit.ly/rai1qdr",
+          "quality": "1080"
+        }
+      ]
+    },
+    {
+      "title": "Rai Due HD",
+      "links": [
+        {
+          "url": "http://bit.ly/rai2qdr",
+          "quality": "1080"
+        }
+      ]
+    },
+    {
+      "title": "Rai Tre HD",
+      "links": [
+        {
+          "url": "http://bit.ly/rai3qdr",
+          "quality": "1080"
+        }
+      ]
+    },
+    {
+      "title": "Rete 4",
+      "links": [
+        {
+          "url": "https://live2-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(r4)/manifest.mpd",
+          "quality": "1080"
+        }
+      ]
+    }
+  ]
+}
