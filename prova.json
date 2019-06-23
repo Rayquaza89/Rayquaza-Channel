@@ -1,0 +1,13 @@
+{
+  "movies list": [
+    { "title":"2019",
+      "films_list": [
+        {
+          "title": "DragonBall Super Broly",
+          "url": "http://tele-vod.dnsup.net:24000/movie/palio/palio/65192.mkv",
+          "quality": "720"
+        }
+      ]
+    }
+  ]
+}
