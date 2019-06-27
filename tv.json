@@ -278,6 +278,134 @@
           "quality": "540"
         }
       ]
+    },
+    {
+      "title": "Rai Movie",
+      "year": "2019",
+      "links": [
+        {
+          "url": "https://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on",
+          "quality": "720"
+        }
+      ]
+    },
+    {
+      "title": "Rai Premium",
+      "year": "2019",
+      "links": [
+        {
+          "url": "https://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8?sd=10&rebase=on",
+          "quality": "720"
+        }
+      ]
+    },
+    {
+      "title": "Cartoonito",
+      "year": "2019",
+      "links": [
+        {
+          "url": "https://link.theplatform.eu/s/PR1GhC/JXDv4rsBEYoX",
+          "quality": "720"
+        },
+        {
+          "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8",
+          "quality": "720"
+        }
+      ]
+    },
+    {
+      "title": "Boing",
+      "year": "2019",
+      "links": [
+        {
+          "url": "https://link.theplatform.eu/s/PR1GhC/V621gNwYrBYA",
+          "quality": "720"
+        },
+        {
+          "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8",
+          "quality": "720"
+        }
+      ]
+    },
+    {
+      "title": "Rai Gulp",
+      "year": "2019",
+      "links": [
+        {
+          "url": "https://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-p.m3u8?sd=10&rebase=on",
+          "quality": "720"
+        }
+      ]
+    },
+    {
+      "title": "Rai YoYo",
+      "year": "2019",
+      "links": [
+        {
+          "url": "https://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-p.m3u8?sd=10&rebase=on",
+          "quality": "720"
+        }
+      ]
+    },
+    {
+      "title": "Rai Storia",
+      "year": "2019",
+      "links": [
+        {
+          "url": "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=24269",
+          "quality": "720"
+        }
+      ]
+    },
+    {
+      "title": "Rai Scuola",
+      "year": "2019",
+      "links": [
+        {
+          "url": "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=24268",
+          "quality": "720"
+        }
+      ]
+    },
+    {
+      "title": "History Lab",
+      "year": "2019",
+      "links": [
+        {
+          "url": "http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8",
+          "quality": "720"
+        }
+      ]
+    },
+    {
+      "title": "Senato TV",
+      "year": "2019",
+      "links": [
+        {
+          "url": "http://senato-live.morescreens.com/senato-live/ngrp:webtv1_all/chunklist_b1155072.m3u8",
+          "quality": "720"
+        }
+      ]
+    },
+    {
+      "title": "Rtv San Marino Sport",
+      "year": "2019",
+      "links": [
+        {
+          "url": "http://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8",
+          "quality": "720"
+        }
+      ]
+    },
+    {
+      "title": "Canale 48 Sardegna",
+      "year": "2019",
+      "links": [
+        {
+          "url": "http://canale48.srfms.com:1935/canale48/livestream/chunklist_w92231418.m3u8",
+          "quality": "720"
+       }
+      ]
     }
   ]
 }
