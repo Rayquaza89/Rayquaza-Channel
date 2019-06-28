@@ -1,7 +1,7 @@
 {
   "movies_list": [
     {
-      "title": "---Nazionali---",
+      "title": "----------Nazionali----------",
       "links": [
         {
           "url": "",
@@ -447,7 +447,7 @@
       ]
     },
     {
-      "title": "Canali Sportivi",
+      "title": "----------Canali Sportivi----------",
       "links": [
         {
           "url": "",
