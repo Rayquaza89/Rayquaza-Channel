@@ -456,16 +456,6 @@
       ]
     },
     {
-      "title": "Automoto TV",
-      "year": "2019",
-      "links": [
-        {
-          "url": "http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8",
-          "quality": "720"
-        }
-      ]
-    },
-    {
       "title": "Canale 85",
       "year": "2019",
       "links": [
@@ -571,16 +561,6 @@
       "links": [
         {
           "url": "http://dcunilive36-lh.akamaihd.net/i/dclive_1@662089/master.m3u8",
-          "quality": "720"
-        }
-      ]
-    },
-    {
-      "title": "7 Gold",
-      "year": "2019",
-      "links": [
-        {
-          "url": "http://dcunilive35-lh.akamaihd.net/i/dclive_1@677802/master.m3u8",
           "quality": "720"
         }
       ]
@@ -916,16 +896,6 @@
       ]
     },
     {
-      "title": "Tgcom 24",
-      "year": "2019",
-      "links": [
-        {
-          "url": "https://link.theplatform.eu/s/PR1GhC/UCklh0zdfiFS",
-          "quality": "720"
-        }
-      ]
-    },
-    {
       "title": "Sky Tg24",
       "year": "2019",
       "links": [
@@ -1001,16 +971,6 @@
       "links": [
         {
           "url": "http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8",
-          "quality": "720"
-        }
-      ]
-    },
-    {
-      "title": "CNN",
-      "year": "2019",
-      "links": [
-        {
-          "url": "http://149.56.26.63:1935/livenewsnetwork/myStream/chunklist_w1973514819.m3u8",
           "quality": "720"
         }
       ]
