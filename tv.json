@@ -1,7 +1,7 @@
 {
   "movies_list": [
     {
-      "title": "----------[UPPERCASE][COLOR green]Nazionali[/COLOR][/UPPERCASE]----------",
+      "title": "[UPPERCASE][COLOR green]----------Nazionali----------[/COLOR][/UPPERCASE]",
       "links": [
         {
           "url": "",
@@ -10,7 +10,7 @@
       ]
 },
     {
-      "title": "Rai [UPPERCASE]U[/UPPERCASE]no [UPPERCASE]HD[/UPPERCASE]",
+      "title": " [UPPERCASE]Rai Uno[/UPPERCASE]",
       "links": [
         {
           "url": "http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803",
