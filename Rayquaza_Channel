@@ -6,17 +6,17 @@
     {
       "title": "Film",
       "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/anni.json",
-      "thumbnail": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/images/movies.png"
+      "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Movies.png"
     },
      {
       "title": "Anime",
       "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/anime.json",
-      "thumbnail": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/images/movies.png"
+      "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Anime.png"
     },
     {
       "title": "TV",
       "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/tv.json",
-      "thumbnail": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/images/movies.png"
+      "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/TV.png"
     }  
   ]
 }
