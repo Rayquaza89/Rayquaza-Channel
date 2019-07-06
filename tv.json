@@ -1,7 +1,7 @@
 {
   "movies_list": [
     {
-      "title": "----------Nazionali----------",
+      "title": "----------[UPPERCASE][COLOR green]Nazionali[/COLOR][/UPPERCASE]----------",
       "links": [
         {
           "url": "",
@@ -10,7 +10,7 @@
       ]
 },
     {
-      "title": "Rai Uno HD",
+      "title": "Rai [UPPERCASE]U[/UPPERCASE]no [UPPERCASE]HD[/UPPERCASE]",
       "links": [
         {
           "url": "http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803",
@@ -447,7 +447,7 @@
       ]
     },
     {
-      "title": "----------Canali Sportivi----------",
+      "title": "----------[UPPERCASE][COLOR green]Canali Sportivi[/COLOR][/UPPERCASE]----------",
       "links": [
         {
           "url": "",
@@ -546,7 +546,7 @@
       ]
     },
     {
-      "title": "---REGIONALI---",
+      "title": "----------[UPPERCASE][COLOR green]Regionali[/COLOR][/UPPERCASE]----------",
       "year": "",
       "links": [
         {
@@ -886,7 +886,7 @@
       ]
     },
     {
-      "title": "---News Italia---",
+      "title": "----------[UPPERCASE][COLOR green]News Italia[/COLOR][/UPPERCASE]----------",
       "year": "",
       "links": [
         {
@@ -936,7 +936,7 @@
       ]
     },
     {
-      "title": "---News International---",
+      "title": "----------[UPPERCASE][COLOR green]News International[/COLOR][/UPPERCASE]-------------",
       "year": "",
       "links": [
         {
