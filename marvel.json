@@ -1,7 +1,7 @@
 {
   "movies_list": [
     {
-      "title": "Captain America - Il Primo Vendicatore",
+      "title": "Captain America: Il Primo Vendicatore",
       "year": "2011",
       "tmdb_id": "1771",
       "links": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "title": "Thor - The Dark World",
+      "title": "Thor: The Dark World",
       "year": "2013",
       "tmdb_id": "76338",
       "links": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "title": "Captain America - The Winter Soldier",
+      "title": "Captain America: The Winter Soldier",
       "year": "2014",
       "tmdb_id": "100402",
       "links": [
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "title": "Guardiano Della Galassia 2",
+      "title": "Guardiani Della Galassia Vol. 2",
       "year": "2017",
       "tmdb_id": "283995",
       "links": [
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "title": "Avengers - Age Of Ultron",
+      "title": "Avengers: Age Of Ultron",
       "year": "2015",
       "tmdb_id": "99861",
       "links": [
@@ -167,13 +167,122 @@
       ]
     },
     {
-      "title": "Captain America - Civil War",
+      "title": "Captain America: Civil War",
       "year": "2016",
       "tmdb_id": "271110",
       "links": [
         {
           "url": "https://oload.site/f/Znt1hNynLaI/",
           "quality": "1080"
+        }
+      ]
+    },
+    {
+      "title": "Spider-Man: Homecoming",
+      "year": "2017",
+      "tmdb_id": "315635",
+      "links": [
+        {
+          "url":"https://speedvideo.net/fhud/vsn.php?u=enos7r248o07",
+          "quality": "1080"
+        },
+        {
+          "url": "https://verystream.com/e/fGDqz2PfyNd/",
+          "quality": "1080"
+        }
+      ]
+    },
+     {
+      "title": "Doctor Strange",
+      "year": "2016",
+      "tmdb_id": "284052",
+      "links": [
+        {
+          "url":"https://wstream.video/video/4ph318r12vmg",
+          "quality": "1080"
+        },
+        {
+          "url":"https://speedvideo.net/fhud/vsn.php?u=5oz2p09a849d",
+          "quality": "1080"
+        },
+        {
+          "url": "https://openloads.co/f2/_Xf95vB5r1o/Doctor%20Strange%20[3D]%20(2016)%20IMAX%20Bluray%201080p.mp4/1742",
+          "quality": "3D"
+        }
+      ]
+    },
+    {
+      "title": "Thor: Ragnarok",
+      "year": "2017",
+      "tmdb_id": "284053",
+      "links": [
+        {
+          "url":"https://akvideo.stream/video/82z8on2ttp59",
+          "quality": "1080"
+        },
+        {
+          "url": "https://verystream.com/stream/eNzeJt7YGBA/",
+          "quality": "1080"
+        }
+      ]
+    },
+    {
+      "title": "Black Panther",
+      "year": "2018",
+      "tmdb_id": "284054",
+      "links": [
+        {
+          "url":"https://akvideo.stream/video/vz4563qslhea",
+          "quality": "1080"
+        },
+        {
+          "url": "https://verystream.com/stream/9ZnJphkyBxD/",
+          "quality": "1080"
+        }
+      ]
+    },
+    {
+      "title": "Ant-Man and The Wasp",
+      "year": "2018",
+      "tmdb_id": "363088",
+      "links": [
+        {
+          "url":"https://akvideo.stream/video/zowq3dcwk7pv",
+          "quality": "1080"
+        },
+        {
+          "url": "https://verystream.com/stream/A51uHGJh3mL/",
+          "quality": "1080"
+        }
+      ]
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "year": "2018",
+      "tmdb_id": "299536",
+      "links": [
+        {
+          "url":"https://akvideo.stream/video/pdq7vp77wzue",
+          "quality": "1080"
+        },
+        {
+          "url": "https://verystream.com/stream/g9nscy2CmsK/",
+          "quality": "1080"
+        }
+      ]
+    },
+    {
+      "title": "Avengers: Endgame",
+      "year": "2019",
+      "tmdb_id": "299534",
+      "links": [
+        {
+          "url":"https://akvideo.stream/video/4lfzqzih47m4",
+          "quality": "SD"
+        },
+        {
+          "url": "https://verystream.com/stream/PoUdCFGo211/Avengers.Endgame.2019.iTALiAN.MD.TC.R6.XviD-iSTANCE.avi",
+          "quality": "SD"
         }
       ]
     }
