@@ -1,5 +1,15 @@
 {
   "tvshows_list": [
+    { "title":"Demon Slayer",
+      "year":"2019",
+      "tmdb_id":"85937",
+      "seasons_list": [
+        {
+          "season": "1",
+          "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/demonslayer.json"
+        }
+      ]
+    },
     { "title":"Il fantastico mondo di Paul",
       "year":"1976",
       "tmdb_id":"42955",
@@ -9,6 +19,6 @@
           "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/ilfantasticomondo.json"
         }
       ]
-    } 
+    }
   ]
 }
