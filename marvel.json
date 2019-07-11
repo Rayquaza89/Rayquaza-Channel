@@ -183,7 +183,7 @@
       "tmdb_id": "315635",
       "links": [
         {
-          "url":"https://speedvideo.net/fhud/vsn.php?u=enos7r248o07",
+          "url":"http://tele-vod.dnsup.net:24000/movie/palio/palio/48679.mkv",
           "quality": "1080"
         },
         {
@@ -202,7 +202,7 @@
           "quality": "1080"
         },
         {
-          "url":"https://speedvideo.net/fhud/vsn.php?u=5oz2p09a849d",
+          "url":"http://tele-vod.dnsup.net:24000/movie/palio/palio/65032.mkv",
           "quality": "1080"
         },
         {
@@ -283,6 +283,10 @@
         {
           "url": "https://verystream.com/stream/PoUdCFGo211/Avengers.Endgame.2019.iTALiAN.MD.TC.R6.XviD-iSTANCE.avi",
           "quality": "SD"
+        },
+        {
+          "url": "http://tele-vod.dnsup.net:24000/movie/palio/palio/65500.mkv",
+          "quality": "720"
         }
       ]
     }
