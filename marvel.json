@@ -8,6 +8,10 @@
         {
           "url": "https://oload.site/f/EwyTBZDN6ik/",
           "quality": "1080"
+        },
+        {
+          "url": "http://tele-vod.dnsup.net:24000/movie/palio/palio/65053.mkv",
+          "quality": "720"
         }
       ]
     },
@@ -19,6 +23,10 @@
         {
           "url": "https://oload.site/f/ny0_ZtfRWx8/",
           "quality": "1080"
+        },
+        {
+          "url": "http://tele-vod.dnsup.net:24000/movie/palio/palio/66089.mkv",
+          "quality": "720"
         }
       ]
     },
@@ -107,6 +115,10 @@
         {
           "url": "https://oload.site/f/y79lb3dg9Ls/",
           "quality": "1080"
+        },
+        {
+        "url": "http://tele-vod.dnsup.net:24000/movie/palio/palio/65031.mkv",
+        "quality": "720"
         }
       ]
     },
@@ -118,6 +130,10 @@
         {
           "url": "https://oload.site/f/p5pwIAvzjj4/",
           "quality": "1080"
+        },
+        {
+          "url": "http://tele-vod.dnsup.net:24000/movie/palio/palio/65036.mkv",
+          "quality": "720"
         }
       ]
     },
@@ -133,6 +149,10 @@
         {
           "url": "https://verystream.com/stream/hGDkXzzNs6i/Guardiani_della_Galassia_Vol._2_%5Bm1080p%5D_%282017%29.mp4",
           "quality": "1080"
+        },
+        {
+          "url": "http://tele-vod.dnsup.net:24000/movie/palio/palio/65035.mkv",
+          "quality": "720"
         }
       ]
     },
@@ -174,6 +194,10 @@
         {
           "url": "https://oload.site/f/Znt1hNynLaI/",
           "quality": "1080"
+        },
+        {
+          "url": "http://tele-vod.dnsup.net:24000/movie/palio/palio/65029.mkv",
+          "quality": "720"
         }
       ]
     },
@@ -183,12 +207,16 @@
       "tmdb_id": "315635",
       "links": [
         {
-          "url":"http://tele-vod.dnsup.net:24000/movie/palio/palio/48679.mkv",
-          "quality": "1080"
+          "url":"http://tele-vod.dnsup.net:24000/movie/palio/palio/65048.mkv",
+          "quality": "720"
+        },
+        {
+          "url":"http://tele-vod.dnsup.net:24000/movie/palio/palio/44716.mkv",
+          "quality": "720"
         },
         {
           "url": "https://verystream.com/e/fGDqz2PfyNd/",
-          "quality": "1080"
+          "quality": "SD"
         }
       ]
     },
