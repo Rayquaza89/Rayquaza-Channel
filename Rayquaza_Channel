@@ -16,6 +16,12 @@
       "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Anime.png"
     },
     {
+      "title": "Documentari",
+      "plot": "Documentari",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/lista_doc.json",
+      "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Documentari.png"
+    },
+    {
       "title": "TV",
       "plot": "TV",
       "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/tv.json",
