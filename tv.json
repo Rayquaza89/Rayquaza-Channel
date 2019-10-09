@@ -24,7 +24,8 @@
     },
     {
       "title": "Rai Due HD",
-      "plot": "Rai Due"
+      "plot": "Rai Due",
+      "poster": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/rai-2.jpg",
       "links": [
         {
           "url": "http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=180116",
