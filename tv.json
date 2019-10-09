@@ -2,6 +2,7 @@
   "movies_list": [
     {
       "title": "----------Nazionali----------",
+      "plot": " Una raccolta IPTV dei canali nazionali italiani",
       "links": [
         {
           "url": "",
@@ -11,6 +12,8 @@
 },
     {
       "title": "Rai Uno",
+      "plot": "Rai Uno",
+      "poster": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Rayquaza_Thumb.jpg",
       "links": [
         {
           "url": "http://vod06.msf.cdn.mediaset.net/farmunica/2019/06/413783_16b8e852ca0a2f/16b8e852ca0a2f-21_0.mp4",
