@@ -1,0 +1,28 @@
+{
+  "channel_name": "documentari",
+  "fanart": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Rayquaza_Wallpaper.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Rayquaza_Thumb.jpg",
+  "menu": [
+     {
+      "title": "Animali e natura",
+      "plot": "Documentari sulla vita degli animali e sul nostro fantastico pianeta",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/marvel.json",
+      "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Movies.png"
+    },
+     {
+      "title": "Biografie e storie",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie2019.json",
+      "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Movies.png"
+   },
+    {
+      "title": "Scienza e tecnologia",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie2018.json",
+      "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Movies.png"
+   },
+    {
+      "title": "Itinerari Insoliti",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie2017.json",
+      "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Movies.png"
+   }
+  ]
+}
