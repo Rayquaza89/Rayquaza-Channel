@@ -12,9 +12,9 @@
       ]
     },
     {
-      "title": "Rai Uno",
+      "title": "Rai Uno HD",
       "plot": "Rai Uno",
-      "poster": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/1280px-Rai_uno.svg.png",
+      "poster": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Rai1.png",
       "links": [
         {
           "url": "http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803",
@@ -25,7 +25,7 @@
     {
       "title": "Rai Due HD",
       "plot": "Rai Due",
-      "poster": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/rai-2.jpg",
+      "poster": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Rai2.png",
       "links": [
         {
           "url": "http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=180116",
@@ -35,6 +35,8 @@
     },
     {
       "title": "Rai Tre HD",
+      "plot": "Rai Tre",
+      "poster": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Rai3.png",
       "links": [
         {
           "url": "http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=180117",
