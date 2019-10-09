@@ -1,8 +1,9 @@
 {
   "generic_list": [
     {
-      "title": "{color red}NAZIONALI{color FFFFFF}",
-      "plot": " Una raccolta IPTV dei canali nazionali italiani",
+      "title": "----------Nazionali----------{color kod italic}",
+      "poster": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/loghi-TV.png",
+      "plot": " Una raccolta dei canali nazionali italiani.",
       "links": [
         {
           "url": "",
@@ -13,19 +14,20 @@
     {
       "title": "Rai Uno",
       "plot": "Rai Uno",
-      "poster": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Rayquaza_Thumb.jpg",
+      "poster": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/1280px-Rai_uno.svg.png",
       "links": [
         {
-          "url": "http://vod06.msf.cdn.mediaset.net/farmunica/2019/06/413783_16b8e852ca0a2f/16b8e852ca0a2f-21_0.mp4",
+          "url": "http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803",
           "quality": "720"
         }
       ]
     },
     {
       "title": "Rai Due HD",
+      "plot": "Rai Due"
       "links": [
         {
-          "url": "https://dplayit.akamaized.net/EHD_124330E_DPLAY_ITALY_SWOM/hls/EHD_124330E_DPLAY_ITALY_SWOM.m3u8",
+          "url": "http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=180116",
           "quality": "720"
         }
       ]
@@ -450,7 +452,8 @@
       ]
     },
     {
-      "title": "----------Canali Sportivi----------",
+      "title": "----------Canali Sportivi----------{color kod italic}",
+      "plot": "Una raccolta di canali sportivi.",
       "links": [
         {
           "url": "",
@@ -559,7 +562,8 @@
       ]
     },
     {
-      "title": "----------Regionali----------",
+      "title": "----------Regionali----------{color kod italic}",
+      "plot": "Raccolta dei canali regionali italiani.",
       "year": "",
       "links": [
         {
@@ -899,8 +903,8 @@
       ]
     },
     {
-      "title": "----------News Italia----------",
-      "year": "",
+      "title": "----------News Italia----------{color kod italic}",
+      "plot": "Notiziari italiani.",
       "links": [
         {
           "url": "",
@@ -949,8 +953,8 @@
       ]
     },
     {
-      "title": "----------News International-------------",
-      "year": "",
+      "title": "----------News International-------------{color kod italic}",
+      "plot": "Notiziari internazionali",
       "links": [
         {
           "url": "",
