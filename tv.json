@@ -22,7 +22,7 @@
       "title": "Rai Due HD",
       "links": [
         {
-          "url": "https://dplayit.akamaized.net/EHD_124330E_DPLAY_ITALY_SWOM/hls/EHD_124330E_DPLAY_ITALY_SWOM.m3u8?hdnts=st=1570631493~exp=1570717893~acl=/EHD_124330E_DPLAY_ITALY_SWOM/hls/*~hmac=7eed570d458b70375c03b50b3f894a6389fb8a7a2312d9b8f1a35ed5b658b100&mux_audio=true" -v warning -stats -c copy -map 0:6 -map 0:7 "America_terra_promessa_-_-_stagione_1_episodio_1_documentario_(1280x720).mp4",
+          "url": "https://dplayit.akamaized.net/EHD_124330E_DPLAY_ITALY_SWOM/hls/EHD_124330E_DPLAY_ITALY_SWOM.m3u8",
           "quality": "720"
         }
       ]
