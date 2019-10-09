@@ -1,5 +1,5 @@
 {
-  "movies_list": [
+  "generic_list": [
     {
       "title": "----------Nazionali----------",
       "plot": " Una raccolta IPTV dei canali nazionali italiani",
@@ -9,7 +9,7 @@
           "quality": "720"
         }
       ]
-},
+    },
     {
       "title": "Rai Uno",
       "plot": "Rai Uno",
