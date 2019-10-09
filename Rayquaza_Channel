@@ -1,21 +1,23 @@
 {
   "channel_name": "Rayquaza Channel",
-  "plot": "Rayquaza Channel",
   "fanart": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Rayquaza_Wallpaper.jpg",
   "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Rayquaza_Thumb.jpg",
   "menu": [
     {
       "title": "Film",
+      "plot": "Film",
       "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/anni.json",
       "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Movies.png"
     },
      {
       "title": "Anime",
+      "plot": "Anime",
       "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/anime.json",
       "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Anime.png"
     },
     {
       "title": "TV",
+      "plot": "TV",
       "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/tv.json",
       "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/TV.png"
     }  
