@@ -1,0 +1,26 @@
+{
+  "generic_list": [
+    {
+      "title": "Branchi rivali",
+      "plot": " Zambia. Nel South Luangwa National Park, i branchi di leoni lottano quotidianamente per la sopravvivenza e per difendere il territorio dai predatori, altri leoni compresi.",
+      "poster": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/117/408/ST000000001320-1-vertical-264x396@3.jpg",
+      "links": [
+        {
+          "url": "http://vod06.msf.cdn.mediaset.net/farmunica/2019/06/413783_16b8e852ca0a2f/16b8e852ca0a2f-20_0.mp4",
+          "quality": "720"
+        }
+      ]
+    },
+    {
+      "title": "La forza di un cucciolo",
+      "plot": " Un cucciolo di leone deve fare i conti con la propria struttura fisica ancora gracile e debole rispetto a quella dei fratelli più adulti. Ma il cucciolo è tenace.",
+      "poster": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/117/408/ST000000001320-1-vertical-264x396@3.jpg",
+      "links": [
+        {
+          "url": "http://vod06.msf.cdn.mediaset.net/farmunica/2019/05/383377_16ab7b11c21965/16ab7b11c21965-20_0.mp4",
+          "quality": "720"
+        }
+      ]
+    }
+  ]
+}
