@@ -1,0 +1,26 @@
+{
+  "generic_list": [
+    {
+      "title": "Il Re di Nsefu",
+      "plot": " Due fratelli del branco di Nsefu affrontano l'arrivo della stagione secca e il prosciugamento del fiume Luangwa.",
+      "poster": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/117/408/ST000000001320-1-vertical-264x396@3.jpg",
+      "links": [
+        {
+          "url": "http://vod06.msf.cdn.mediaset.net/farmunica/2019/10/454150_16d8644976589c/16d8644976589c-07_0.mp4",
+          "quality": "720"
+        }
+      ]
+    },
+    {
+      "title": "Il principe solitario",
+      "plot": " Mizumu, un giovane esemplare maschio di iena ridens, raggiunge la maturita' sessuale ed e' costretto a trovarsi un altro branco.",
+      "poster": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/117/408/ST000000001320-1-vertical-264x396@3.jpg",
+      "links": [
+        {
+          "url": "http://vod06.msf.cdn.mediaset.net/farmunica/2019/10/458232_16d8644f69289c/16d8644f69289c-07_0.mp4",
+          "quality": "720"
+        }
+      ]
+    }
+  ]
+}
