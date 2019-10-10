@@ -1,1 +1,114 @@
-
+{
+  "generic_list": [
+    {
+      "title": "Il coccodrillo",
+      "plot": "Gli abitanti del villaggio di Sarawak sono minacciati da un coccodrillo che ha trovato dimora nei pressi di un parco giochi per bambini. Il Ranger Christopher Kri deve catturare l'alligatore.",
+      "poster": "https://eu2-prod-images.disco-api.com/2019/09/23/show-719-19013917827072603.jpg",
+      "links": [
+        {
+          "url": "https://dplayit.akamaized.net/EHD_139742D_DPLAY_ITALY_SWOM/0/hls/EHD_139742D_DPLAY_ITALY_SWOM.m3u8",
+          "quality": "720"
+        }
+      ]
+    },
+    {
+      "title": "Barriere",
+      "plot": "Gli elefanti stanno saccheggiando le piantagioni di olio di palma e distruggendo le coltivazioni. Il ricercatore Simon Louvard spera di risolvere il problema con l'aiuto delle api.",
+      "poster": "https://eu2-prod-images.disco-api.com/2019/09/23/show-719-19013917827072603.jpg",
+      "links": [
+        {
+          "url": "https://dplayit.akamaized.net/EHD_139743D_DPLAY_ITALY_SWOM/0/hls/EHD_139743D_DPLAY_ITALY_SWOM.m3u8",
+          "quality": "720"
+        }
+      ]
+    },
+    {
+      "title": "Mazlan e il coccodrillo",
+      "plot": "Quando un pescatore locale sparisce, si sospetta inizialmente di un coccodrillo che si aggirava per i corsi d'acqua. Il cacciatore Mazlan prova a seguire l'alligatore.",
+      "poster": "https://eu2-prod-images.disco-api.com/2019/09/23/show-719-19013917827072603.jpg",
+      "links": [
+        {
+          "url": "https://dplayit.akamaized.net/EHD_139744D_DPLAY_ITALY_SWOM/0/hls/EHD_139744D_DPLAY_ITALY_SWOM.m3u8",
+          "quality": "720"
+        }
+      ]
+    },
+    {
+      "title": "Verso la libertà",
+      "plot": "Chris Kri deve proteggere la barriera corallina, devastata dai pescherecci. Ma con il mare agitato e l'oscillazione della gru riuscirà a portare a termine la sua missione?",
+      "poster": "https://eu2-prod-images.disco-api.com/2019/09/23/show-719-19013917827072603.jpg",
+      "links": [
+        {
+          "url": "https://dplayit.akamaized.net/EHD_139745D_DPLAY_ITALY_SWOM/0/hls/EHD_139745D_DPLAY_ITALY_SWOM.m3u8",
+          "quality": "720"
+        }
+      ]
+    },
+    {
+      "title": "L'orso",
+      "plot": "La protezione animali deve affrontare un compito pericoloso: rilasciare un esemplare di orso del sole. Inoltre, alle grotte di Gomantong, la stagione del raccolto riprende dopo una tragica morte.",
+      "poster": "https://eu2-prod-images.disco-api.com/2019/09/23/show-719-19013917827072603.jpg",
+      "links": [
+        {
+          "url": "https://dplayit.akamaized.net/EHD_139746D_DPLAY_ITALY_SWOM/0/hls/EHD_139746D_DPLAY_ITALY_SWOM.m3u8",
+          "quality": "720"
+        }
+      ]
+    },
+    {
+      "title": "Squadra di salvataggio",
+      "plot": "Un anno dopo il devastante terremoto sul monte Kinabalu, i sopravvissuti si incontrano di nuovo. Dopo mesi di allenamento, entrano tutti a far parte di una squadra di salvataggio.",
+      "poster": "https://eu2-prod-images.disco-api.com/2019/09/23/show-719-19013917827072603.jpg",
+      "links": [
+        {
+          "url": "https://dplayit.akamaized.net/EHD_139747D_DPLAY_ITALY_SWOM/0/hls/EHD_139747D_DPLAY_ITALY_SWOM.m3u8",
+          "quality": "720"
+        }
+      ]
+    },
+    {
+      "title": "L'esperimento",
+      "plot": "L'esperto David McGuire intraprende un esperimento senza precedenti per trasferire gli squali in una nuova casa.",
+      "poster": "https://eu2-prod-images.disco-api.com/2019/09/23/show-719-19013917827072603.jpg",
+      "links": [
+        {
+          "url": "https://dplayit.akamaized.net/EHD_139748D_DPLAY_ITALY_SWOM/0/hls/EHD_139748D_DPLAY_ITALY_SWOM.m3u8",
+          "quality": "720"
+        }
+      ]
+    },
+    {
+      "title": "Una dura sfida",
+      "plot": "Gli scalatori sono giunti sul monte Kinabalu per affrontare una delle sfide più dure del mondo. La recente morte di un escursionista però mette tutti in ansia.",
+      "poster": "https://eu2-prod-images.disco-api.com/2019/09/23/show-719-19013917827072603.jpg",
+      "links": [
+        {
+          "url": "https://dplayit.akamaized.net/EHD_139749D_DPLAY_ITALY_SWOM/0/hls/EHD_139749D_DPLAY_ITALY_SWOM.m3u8",
+          "quality": "720"
+        }
+      ]
+    },
+    {
+      "title": "Un grave pericolo",
+      "plot": "Il dottor Rahim affronta il pericolo durante il tentativo di immortalare la fauna selvaggia della Danum Valley. Inoltre, una famiglia di macachi crea scompiglio in un piccolo villaggio.",
+      "poster": "https://eu2-prod-images.disco-api.com/2019/09/23/show-719-19013917827072603.jpg",
+      "links": [
+        {
+          "url": "https://dplayit.akamaized.net/EHD_139750D_DPLAY_ITALY_SWOM/0/hls/EHD_139750D_DPLAY_ITALY_SWOM.m3u8",
+          "quality": "720"
+        }
+      ]
+    },
+    {
+      "title": "La scuola",
+      "plot": "Michael ha viaggiato in tutto il mondo per costruire una scuola per i bambini Bajau Laut. Ma riuscire a coinvolgere gli studenti sarà la sfida più grande.",
+      "poster": "https://eu2-prod-images.disco-api.com/2019/09/23/show-719-19013917827072603.jpg",
+      "links": [
+        {
+          "url": "https://dplayit.akamaized.net/EHD_139751D_DPLAY_ITALY_SWOM/0/hls/EHD_139751D_DPLAY_ITALY_SWOM.m3u8",
+          "quality": "720"
+        }
+      ]
+    }
+  ]
+}
