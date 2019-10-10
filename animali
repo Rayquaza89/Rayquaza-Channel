@@ -7,7 +7,7 @@
       "title": "Acquario, emozioni a Genova",
       "plot": "Un viaggio straordinario nella struttura più amata d'Europa, tra pinguini, squali e delfini.",
       "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/marvel.json",
-      "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Movies.png"
+      "thumbnail": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/207/376/ST000000001178-1-vertical-264x396@3.jpg"
     },
      {
       "title": "Africa: predatori letali",
@@ -19,19 +19,68 @@
       "title": "Africa: predatori letali 2",
       "plot": "La lotta per la supremazia nella savana raccontata con immagini spettacolari, drammatiche e ravvicinate, accompagnate da musiche di tamburi e percussioni che accrescono la tensione.",
       "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie2019.json",
-      "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Movies.png"
+      "thumbnail": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/108/1020/ST000000001527-2-vertical-264x396@3.jpg"
    },
     {
       "title": "Costa d'Africa",
       "plot": "Le due spettacolari costiere che si congiungono sulla punta Sud dell'Africa corrono per circa 3000 km, offrendo alla vista paesaggi di rara bellezza. Questa porzione di costa ospita tra le più interessanti forme di vita marine del globo, dato che si affaccia su due diversi Oceani (Atlantico e Indiano), che contribuiscono, ognuno con le proprie peculiarità, alla biodiversità dei loro fondali...",
       "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie2018.json",
-      "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Movies.png"
+      "thumbnail": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/754/532/ST000000001291-2-vertical-264x396@3.jpg"
    },
     {
       "title": "Emergency Rescue: in volo con il 15°Stormo",
       "plot": "Un documentario esclusivo girato in basi militari il cui accesso è normalmente vietato al pubblico, per raccontare gli uomini e le donne che compongono il 15° Stormo, il tipo di addestramento che seguono, le loro abilità professionali e la motivazione che li mantiene costantemente concentrati sull'obiettivo di salvare vite, specialmente dopo che altre strutture si sono arrese.",
       "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie2017.json",
-      "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Movies.png"
-   }
+      "thumbnail": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/28/632/ST000000001378-1-vertical-264x396@3.jpg"
+   },
+   {
+      "title": "Galapagos | Ai confini del mondo",
+      "plot": "Isolate nel mezzo dell'Oceano Pacifico, con creature che non si trovano in nessuna altre parte nel mondo, le Galapagos sono la migliore testimonianza della teoria dell'evoluzione darwiniana. Con immagini in alta definizione, questi documentari ci mostrano le specie endemiche, la loro evoluzione attraverso i cambiamenti climatici e le interferenze dell'uomo sulla natura.",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie2017.json",
+      "thumbnail": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/277/484/ST000000001486-1-vertical-264x396@3.jpg"
+   },
+   {
+      "title": "I custodi della Natura",
+      "plot": "Due giovani scienziati lavorano 24 ore su 24 raccogliendo dati su grandi predatori, mettendo a rischio la loro stessa vita. Mentre allo stesso tempo, il loro orfanotrofio degli elefanti sta dando nuova speranza ai cuccioli salvati dai bracconieri. Un mondo pieno di coraggioso, pericoli e speranza.",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie2017.json",
+      "thumbnail": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/504/792/ST000000001197-1-vertical-264x396@3.jpg"
+   },
+   {
+      "title": "I grandi Oceani selvaggi",
+      "plot": "Gli Oceani ricoprono il settanta per cento della superficie del nostro pianeta e sono abitati da milioni di specie di piante e animali: creature minuscole, giganti degli abissi e temibili predatori. La catena alimentare è sostenuta da organismi quasi invisibili che fluttuano nella corrente e costituiscono il plancton. Dalle barriere coralline alle insenature sulle coste, il plancton è alla base della vita sulla terra.",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie2017.json",
+      "thumbnail": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/496/680/ST000000001243-2-vertical-264x396@3.jpg"
+   },
+   {
+      "title": "La grande siccità",
+      "plot": "Il documentario segue le sfide che devono affrontare gli animali che popolano Luangwa Valley.",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie2017.json",
+      "thumbnail": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/616/444/ST000000000878-3-vertical-264x396@3.jpg"
+   },
+   {
+      "title": "Le furie della natura",
+      "plot": "I segreti dei tornado, fenomeni temuti e pericolosi. Esperti del settore parlano dei più potenti avuti sul pianeta, spiegando come si formano e come proteggersi dalla loro potenza.",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie2017.json",
+      "thumbnail": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/521/276/ST000000001269-1-vertical-264x396@3.jpg"
+   },
+   {
+      "title": "Le meraviglie del Parco di Yellowstone",
+      "plot": "Documentario narrato dall'attore Bill Pullman, che ci accompagna alla scoperta del Parco di Yellowstone, una sterminata riserva brulicante di fauna e di meraviglie naturali.",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie2017.json",
+      "thumbnail": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/824/452/ST000000001374-1-vertical-264x396@3.jpg"
+   },
+   {
+      "title": "Life on the reef",
+      "plot": "Per la durata di un anno solare, il documentario segue da vicino la vita che si svolge all'interno di uno degli ambienti più straordinari e delicati presenti sul nostro pianeta: la Grande Barriera Corallina Australiana.",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie2017.json",
+      "thumbnail": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/453/200/ST000000001123-1-vertical-264x396@3.jpg"
+   },
+   {
+      "title": "Luoghi di magnifica Italia",
+      "plot": "Magnifica Italia è il meglio dell'Italia visto nel migliore dei modi. Mari e montagne mozzafiato da ammirare dal cielo e una selezione dei luoghi più belli e interessanti tra parchi, borghi e città, cultura, sapori e tradizioni.È un progetto video-editoriale, che mira alla valorizzazione del patrimonio ambientale, culturale ed agroalimentare di tutta l'Italia.",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie2017.json",
+      "thumbnail": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/33/164/ST000000000670-2-vertical-264x396@3.jpg"
+   },
+   
   ]
 }
