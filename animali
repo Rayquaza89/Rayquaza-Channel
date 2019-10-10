@@ -1,0 +1,37 @@
+{
+  "channel_name": "Animali e Natura",
+  "fanart": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Animalienaturajpg.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Animalienaturajpg.jpg",
+  "menu": [
+  {
+      "title": "Acquario, emozioni a Genova",
+      "plot": "Un viaggio straordinario nella struttura più amata d'Europa, tra pinguini, squali e delfini.",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/marvel.json",
+      "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Movies.png"
+    },
+     {
+      "title": "Africa: predatori letali",
+      "plot": "La lotta per la supremazia nella savana raccontata con immagini spettacolari, drammatiche e ravvicinate, accompagnate da musiche di tamburi e percussioni che accrescono la tensione. La valle di Luangwa, Zambia, è lo scenario in cui si muovono i più temibili predatori: leoni, leopardi e iene. Sei documentari che ci mostrano la quotidianità di una famiglia di sedici leoni, in particolare del piccolo Misfit. La valle del fiume è anche la sede di Kamuti, un esperto leopardo femmina di tredici...",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/marvel.json",
+      "thumbnail": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/117/408/ST000000001320-1-vertical-264x396@3.jpg"
+    },
+     {
+      "title": "Africa: predatori letali 2",
+      "plot": "La lotta per la supremazia nella savana raccontata con immagini spettacolari, drammatiche e ravvicinate, accompagnate da musiche di tamburi e percussioni che accrescono la tensione.",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie2019.json",
+      "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Movies.png"
+   },
+    {
+      "title": "Costa d'Africa",
+      "plot": "Le due spettacolari costiere che si congiungono sulla punta Sud dell'Africa corrono per circa 3000 km, offrendo alla vista paesaggi di rara bellezza. Questa porzione di costa ospita tra le più interessanti forme di vita marine del globo, dato che si affaccia su due diversi Oceani (Atlantico e Indiano), che contribuiscono, ognuno con le proprie peculiarità, alla biodiversità dei loro fondali...",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie2018.json",
+      "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Movies.png"
+   },
+    {
+      "title": "Emergency Rescue: in volo con il 15°Stormo",
+      "plot": "Un documentario esclusivo girato in basi militari il cui accesso è normalmente vietato al pubblico, per raccontare gli uomini e le donne che compongono il 15° Stormo, il tipo di addestramento che seguono, le loro abilità professionali e la motivazione che li mantiene costantemente concentrati sull'obiettivo di salvare vite, specialmente dopo che altre strutture si sono arrese.",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie2017.json",
+      "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Movies.png"
+   }
+  ]
+}
