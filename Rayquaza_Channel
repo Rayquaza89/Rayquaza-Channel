@@ -7,19 +7,19 @@
       "title": "Film",
       "plot": "Film",
       "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/anni.json",
-      "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Movies.png"
+      "thumbnail": "channels_movie.png"
     },
      {
       "title": "Anime",
       "plot": "Anime",
-      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/anime.json",
-      "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Anime.png"
+      "link": "Anime/anime.json",
+      "thumbnail": "channels_anime.png"
     },
     {
       "title": "Documentari",
       "plot": "Documentari",
-      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Documentari/listadoc",
-      "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Documentari.png"
+      "link": "Documentari/listadoc.json",
+      "thumbnail": "Immagini/Documentari.png"
     },
     {
       "title": "TV",

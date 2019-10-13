@@ -1,0 +1,30 @@
+{
+  "tvshows_list": [
+    {
+      "title": "Il fantastico mondo di Paul",
+      "year": "1976",
+      "tmdb_id": "42955",
+      "seasons_list": [
+        {
+          "season": "1",
+          "link": "Anime/ilfantasticomondo.json"
+        }
+      ]
+    },
+    {
+      "title": "One Punch Man",
+      "year": "2015",
+      "tmdb_id": "63926",
+      "seasons_list": [
+        {
+          "season": "1",
+          "link": "Anime/onepunch1.json"
+        },
+        {
+          "season": "2",
+          "link": "Anime/onepunch2.json"
+        }
+      ]
+    }
+  ]
+}
