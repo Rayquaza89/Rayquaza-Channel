@@ -12,13 +12,13 @@
      {
       "title": "Anime",
       "plot": "Anime",
-      "link": "Anime/anime.json",
+      "link": "/Anime/anime.json",
       "thumbnail": "channels_anime.png"
     },
     {
       "title": "Documentari",
       "plot": "Documentari",
-      "link": "Documentari/listadoc.json",
+      "link": "/Documentari/listadoc.json",
       "thumbnail": "Immagini/Documentari.png"
     },
     {

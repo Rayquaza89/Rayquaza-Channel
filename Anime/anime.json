@@ -7,7 +7,7 @@
       "seasons_list": [
         {
           "season": "1",
-          "link": "Anime/ilfantasticomondo.json"
+          "link": "/Anime/ilfantasticomondo.json"
         }
       ]
     },
@@ -18,11 +18,11 @@
       "seasons_list": [
         {
           "season": "1",
-          "link": "Anime/onepunch1.json"
+          "link": "/Anime/onepunch1.json"
         },
         {
           "season": "2",
-          "link": "Anime/onepunch2.json"
+          "link": "/Anime/onepunch2.json"
         }
       ]
     }
