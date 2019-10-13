@@ -19,19 +19,19 @@
       "title": "Documentari",
       "plot": "Documentari",
       "link": "/Documentari/listadoc.json",
-      "thumbnail": "Immagini/Documentari.png"
+      "thumbnail": "channels_documentary.png"
     },
     {
       "title": "TV",
       "plot": "TV",
       "link": "/TV/tv.json",
-      "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/TV.png"
+      "thumbnail": "channels_tvshow_hd.png"
     },
     {
       "title": "Sport",
       "plot": "Eventi sportivi",
       "link": "/Sport/sport.json",
-      "thumbnail": "Immagini/Documentari.png"
+      "thumbnail": "on_the_air.png"
     } 
   ]
 }
