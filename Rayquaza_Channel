@@ -5,7 +5,7 @@
   "menu": [
     {
       "title": "Film",
-      "plot": "Film",
+      "plot": "Film by Rayquaza",
       "link": "/Film/anni.json",
       "thumbnail": "channels_movie.png"
     },
