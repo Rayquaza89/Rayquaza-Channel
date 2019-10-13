@@ -1,0 +1,27 @@
+{
+    "generic_list": [
+      {
+        "title": "Aspettando la marea",
+        "plot": " Esploriamo una parte della costa sudoccidentale africana le cui specie animali e vegetali sono in costante lotta contro il tempo e la marea.",
+        "poster": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/754/532/ST000000001291-2-vertical-264x396@3.jpg",
+        "links": [
+          {
+            "url": "http://vod06.msf.cdn.mediaset.net/farmunica/2019/03/355929_169bac9a22989c/169bac9a22989c-20_0.mp4",
+            "quality": "720"
+          }
+        ]
+      },
+      {
+        "title": "Il Santuario dell'Oceano Indiano",
+        "plot": " La barriera corallina dell'Oceano Indiano, al largo della costa dell'Africa Australe, offre un santuario per migliaia di differenti creature marine. ",
+        "poster": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/754/532/ST000000001291-2-vertical-264x396@3.jpg",
+        "links": [
+          {
+            "url": "http://vod06.msf.cdn.mediaset.net/farmunica/2019/03/357505_169c4de83087d2/169c4de83087d2-20_0.mp4",
+            "quality": "720"
+          }
+        ]
+      }
+    ]
+  }
+  
