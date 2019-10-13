@@ -2,7 +2,7 @@
   "generic_list": [
     {
       "title": "----------Nazionali----------{color kod italic}",
-      "poster": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/loghi-TV.png",
+      "poster": "/Immagini/loghi-TV.png",
       "plot": " Una raccolta dei canali nazionali italiani.",
       "links": [
         {
@@ -14,7 +14,7 @@
     {
       "title": "Rai Uno HD",
       "plot": "Rai Uno",
-      "poster": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Rai1.png",
+      "poster": "/Immagini/Rai1.png",
       "links": [
         {
           "url": "http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803",
@@ -25,7 +25,7 @@
     {
       "title": "Rai Due HD",
       "plot": "Rai Due",
-      "poster": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Rai2.png",
+      "poster": "/Immagini/Rai2.png",
       "links": [
         {
           "url": "http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=180116",
@@ -36,7 +36,7 @@
     {
       "title": "Rai Tre HD",
       "plot": "Rai Tre",
-      "poster": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Rai3.png",
+      "poster": "/Immagini/Rai3.png",
       "links": [
         {
           "url": "http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=180117",

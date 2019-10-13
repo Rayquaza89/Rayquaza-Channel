@@ -5,32 +5,32 @@
   "menu": [
      {
       "title": "Marvel",
-      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/marvel.json",
+      "link": "/Film/marvel.json",
       "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Movies.png"
     },
      {
       "title": "2019",
-      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie2019.json",
+      "link": "/Film/movie2019.json",
       "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Movies.png"
    },
     {
       "title": "2018",
-      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie2018.json",
+      "link": "/Film/movie2018.json",
       "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Movies.png"
    },
     {
       "title": "2017",
-      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie2017.json",
+      "link": "/Film/movie2017.json",
       "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Movies.png"
    },
     {
       "title": "2016",
-      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie2016.json",
+      "link": "/Film/movie2016.json",
       "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Movies.png"
    },
     {
       "title": "2003",
-      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/movie2003.json",
+      "link": "/Film/movie2003.json",
       "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Movies.png"
    }
   ]
