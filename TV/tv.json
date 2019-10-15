@@ -12,6 +12,15 @@
       ]
     },
     {
+      "title": "Prova",
+      "links": [
+        {
+          "url":"http://streams.minoto-video.com/id/ekiGo8GhZpYJ_web_mq.mp4",
+          "quality":"720"
+        }
+      ]
+    },
+    {
       "title": "Rai Uno HD",
       "plot": "Rai Uno",
       "poster": "/Immagini/Rai1.png",
@@ -46,7 +55,6 @@
     },
     {
       "title": "Rete 4 HD",
-      "poster": "/Immagini/Rai3.png",
       "links": [
         {
           "url": "https://link.theplatform.eu/s/PR1GhC/qaCbbEgJhDQO",
