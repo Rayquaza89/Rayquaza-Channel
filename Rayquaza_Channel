@@ -6,13 +6,13 @@
   "menu": [
     {
       "title": "Film",
-      "plot": "Film by Rayquaza",
+      "plot": "Raccolta film",
       "link": "/Film/anni.json",
       "thumbnail": "channels_movie.png"
     },
      {
       "title": "Anime",
-      "plot": "Anime",
+      "plot": "Raccolta anime",
       "link": "/Anime/anime.json",
       "thumbnail": "channels_anime.png"
     },
@@ -24,7 +24,7 @@
     },
     {
       "title": "TV",
-      "plot": "TV",
+      "plot": "Canali televisivi da tutto il mondo",
       "link": "/TV/tv.json",
       "thumbnail": "channels_tvshow_hd.png"
     },
