@@ -1,18 +1,18 @@
 {
-  "episodes_list": [
-    {
-      "number": "1x01",
-      "year": "2019",
-      "poster": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/nMHFLNSybmNCP9At5HSlXM3g2qa.jpg",
-      "plot": "I Sette Peccati Capitali",
-      "links": [
-        {
-          "url": "https://www.animeunityserver14.cloud/DDL/Anime/NanatsuNoTaizai/NanatsuNoTaizai_Ep_01_SUB_ITA.mp4",
-          "quality": "HD"
-        }
-      ]
-    },
-    {
+    "episodes_list": [
+      {
+        "number": "1x01",
+        "year": "2019",
+        "poster": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/nMHFLNSybmNCP9At5HSlXM3g2qa.jpg",
+        "plot": "I Sette Peccati Capitali",
+        "links": [
+          {
+            "url": "https://www.animeunityserver14.cloud/DDL/Anime/NanatsuNoTaizai/NanatsuNoTaizai_Ep_01_SUB_ITA.mp4",
+            "quality": "HD"
+          }
+        ]
+      },
+      {
         "number": "1x02",
         "year": "2019",
         "poster": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/6oYkOA9W4Vv48sV3335yQKvfCOg.jpg",
@@ -36,5 +36,5 @@
           }
         ]
       }
-   ]
-}
+    ]
+  }
