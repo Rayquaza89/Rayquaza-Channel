@@ -1,28 +1,22 @@
 {
   "tvshows_list": [
     {
-      "title": "Il fantastico mondo di Paul",
-      "year": "1976",
-      "tmdb_id": "42955",
+      "title": "Nanatsu no Taizai",
+      "year": "2019",
+      "tmdb_id": "62104",
       "seasons_list": [
         {
           "season": "1",
-          "link": "/Anime/ilfantasticomondo.json"
-        }
-      ]
-    },
-    {
-      "title": "One Punch Man",
-      "year": "2015",
-      "tmdb_id": "63926",
-      "seasons_list": [
-        {
-          "season": "1",
-          "link": "/Anime/onepunch1.json"
+          "link": "/Anime/nanatsu1.json"
         },
         {
           "season": "2",
-          "link": "/Anime/onepunch2.json"
+          "link": "/Anime/nanatsu2.json"
+        },
+        {
+          "season": "3",
+          "plot": "Kamigami no Gekirin{italic}",
+          "link": "/Anime/nanatsu3.json"
         }
       ]
     }

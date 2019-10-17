@@ -1,0 +1,40 @@
+{
+  "movies_list": [
+    {
+      "title": "I Sette Peccati Capitali",
+      "year": "2019",
+      "poster": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/nMHFLNSybmNCP9At5HSlXM3g2qa.jpg",
+      "plot": "Una principessa si unisce a un ex cavaliere nella sua missione di ritrovare i vecchi compagni e fermare i tiranni al potere, ripristinando l'antico regno.",
+      "links": [
+        {
+          "url": "https://www.animeunityserver14.cloud/DDL/Anime/NanatsuNoTaizai/NanatsuNoTaizai_Ep_01_SUB_ITA.mp4",
+          "quality": "HD"
+        }
+      ]
+    },
+    {
+        "title": "La Spada del Cavaliere Sacro",
+        "year": "2019",
+        "poster": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/6oYkOA9W4Vv48sV3335yQKvfCOg.jpg",
+        "plot": "Gilthunder conficca la spada nel centro del villaggio, bloccando la produzione locale di birra. Solo Meliodas sarà in grado di rimuoverla.",
+        "links": [
+          {
+            "url": "https://www.animeunityserver14.cloud/DDL/Anime/NanatsuNoTaizai/NanatsuNoTaizai_Ep_02_SUB_ITA.mp4",
+            "quality": "HD"
+          }
+        ]
+      },
+      {
+        "title": "La peccatrice della Foresta Dormiente",
+        "year": "2019",
+        "poster": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/A8uXOuP80vwVOmUnwVtsiVBmpKr.jpg",
+        "plot": "Meliodas, Hawk ed Elizabeth devono attraversare il Bosco di Biancosogno, dove Meliodas rischia grosso pur di ottenere informazioni.",
+        "links": [
+          {
+            "url": "https://www.animeunityserver14.cloud/DDL/Anime/NanatsuNoTaizai/NanatsuNoTaizai_Ep_03_SUB_ITA.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+   ]
+}
