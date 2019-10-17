@@ -1,8 +1,7 @@
 {
     "episodes_list": [
       {
-        "number": "1x01",
-        "year": "2019",
+        "number": "01",
         "poster": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/nMHFLNSybmNCP9At5HSlXM3g2qa.jpg",
         "plot": "I Sette Peccati Capitali",
         "links": [
@@ -13,8 +12,7 @@
         ]
       },
       {
-        "number": "1x02",
-        "year": "2019",
+        "number": "02",
         "poster": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/6oYkOA9W4Vv48sV3335yQKvfCOg.jpg",
         "plot": "La Spada del Cavaliere Sacro",
         "links": [
@@ -25,8 +23,7 @@
         ]
       },
       {
-        "number": "1x03",
-        "year": "2019",
+        "number": "03",
         "poster": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/A8uXOuP80vwVOmUnwVtsiVBmpKr.jpg",
         "plot": "La peccatrice della Foresta Dormiente",
         "links": [
