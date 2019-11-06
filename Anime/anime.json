@@ -4,21 +4,8 @@
       "title": "Nanatsu no Taizai",
       "year": "2019",
       "tmdb_id": "62104",
-      "seasons_list": [
-        {
-          "season": "1",
-          "link": "/Anime/nanatsu1.json"
-        },
-        {
-          "season": "2",
-          "link": "/Anime/nanatsu2.json"
-        },
-        {
-          "season": "3",
-          "plot": "Kamigami no Gekirin{italic}",
-          "link": "/Anime/nanatsu3.json"
-        }
-      ]
+      "plot": "Kamigami no Gekirin{italic}",
+      "link": "/Anime/nanatsu3.json"
     }
   ]
 }
