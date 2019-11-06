@@ -1,7 +1,7 @@
 {
     "episodes_list": [
       {
-        "number": "01",
+        "number": "3x01",
         "poster": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/nMHFLNSybmNCP9At5HSlXM3g2qa.jpg",
         "title": "I Sette Peccati Capitali",
         "links": [
@@ -12,7 +12,7 @@
         ]
       },
       {
-        "number": "02",
+        "number": "3x02",
         "poster": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/6oYkOA9W4Vv48sV3335yQKvfCOg.jpg",
         "title": "La Spada del Cavaliere Sacro",
         "links": [
@@ -23,7 +23,7 @@
         ]
       },
       {
-        "number": "03",
+        "number": "3x03",
         "poster": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/A8uXOuP80vwVOmUnwVtsiVBmpKr.jpg",
         "title": "La peccatrice della Foresta Dormiente",
         "links": [
