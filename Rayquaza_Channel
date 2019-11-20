@@ -33,11 +33,6 @@
       "plot": "Eventi sportivi",
       "link": "/Sport/sport.json",
       "thumbnail": "on_the_air.png"
-    },
-    {
-      "title": "Ingordi",
-      "plot": "Ingordi Channel",
-      "link": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/Ingordi_Channel"
     }
   ]
 }
